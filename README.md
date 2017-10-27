@@ -1,2 +1,2 @@
 # rectangle
-a repo for my tests
+a repo for my tests on my computer
